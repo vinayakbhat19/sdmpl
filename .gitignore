@@ -1,0 +1,4 @@
+.DS_Store
+*.bak*
+scratch*
+node_modules/
